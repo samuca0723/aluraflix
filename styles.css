@@ -1,0 +1,10 @@
+body{
+    color: purple
+    background black;
+    margin: 0px;
+}
+
+header{
+    border: solid 2px white;
+    padding: 20px;
+}
