@@ -1,3 +1,6 @@
+@import url("styles/banner.css");
+@import url("styles/header.css");
+
 :root {
     --cor-de-fundo: #0055ff;
     --branco: #FFFFFF;
